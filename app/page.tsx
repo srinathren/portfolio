@@ -633,7 +633,7 @@ export default function HomePage() {
                   <span>GitHub</span>
                 </a>
                 <a
-                  href="https://leetcode.com/u/srinathren"
+                  href="https://leetcode.com/u/Srinath_Venkataraman/"
                   target="_blank"
                   rel="noreferrer"
                   className="social-link"
